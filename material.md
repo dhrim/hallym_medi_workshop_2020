@@ -141,5 +141,7 @@ TensorFlow/Keras
 
 # 딥러닝 논문 파악
 
+- [딥러닝 논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit?usp=sharing)
+
 
 <br>
