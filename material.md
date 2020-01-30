@@ -118,6 +118,8 @@ TensorFlow/Keras
 
 # 딥러닝 파악
 
+- 라이브러리와 linux : [딥러닝을 위한 라이브러리와 linux](https://docs.google.com/presentation/d/1d58RGoqrUyVa8NpWPLsyqcZuEXXaurosTRwjBgyYvPE/edit?usp=sharing)
+
 - 딥러닝 개요
     - 딥러닝 개념 : [deep_learning_intro.pptx](material/deep_learning_intro.pptx)
     - 알파고 이해하기 : [understanding_alphago.pptx](material/understanding_alphago.pptx)
