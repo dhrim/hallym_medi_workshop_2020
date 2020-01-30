@@ -118,9 +118,24 @@ TensorFlow/Keras
 
 # 1일차 : 딥러닝 파악
 
-- 딥러닝 개념 : []()
-- DNN in Keras : [dnn_in_keras.ipynb](material/dnn_in_keras.ipynb)
-
+- 딥러닝 개요
+    - 딥러닝 개념 : [deep_learning_intro.pptx](material/deep_learning_intro.pptx)
+    - 알파고 이해하기 : [understanding_alphago.pptx](material/understanding_alphago.pptx)
+- Keras
+    - DNN in Keras : [dnn_in_keras.ipynb](material/dnn_in_keras.ipynb)
+    - Keras 요약 [keras_in_short.md](material/keras_in_short.md)
+- DNN as classifier
+    - 분류기 : [dnn_as_a_classifier.ipynb](material/dnn_as_a_classifier.ipynb)
+    - IRIS
+        - [dnn_iris_and_optimizer.ipynb](material/dnn_iris_and_optimizer.ipynb)
+        - [dnn_iris_with_category_index.ipynb](material/dnn_iris_with_category_index.ipynb)
+    - MNIST 영상데이터 : [dnn_mnist.ipynb](material/dnn_mnist.ipynb)
+- CNN
+    - MNIST : [cnn_mnist.ipynb](material/cnn_mnist.ipynb)
+    - CIFAR10 : [cnn_cifar10.ipynb](material/cnn_cifar10.ipynb)
+- VGG - CIFAR10, ImageNet, custom data : [VGG16_classification_and_cumtom_data_training.ipynb](material/VGG16_classification_and_cumtom_data_training.ipynb)
+- Object Detection
+    - CoCo, custom data : [object_detection.md](material/object_detection.md)
 
 <br>
 
