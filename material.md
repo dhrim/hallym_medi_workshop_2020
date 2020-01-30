@@ -116,7 +116,7 @@ TensorFlow/Keras
 
 <br>
 
-# 1일차 : 딥러닝 파악
+# 딥러닝 파악
 
 - 딥러닝 개요
     - 딥러닝 개념 : [deep_learning_intro.pptx](material/deep_learning_intro.pptx)
@@ -139,15 +139,7 @@ TensorFlow/Keras
 
 <br>
 
-# 2일차 : 딥러닝 논문 파악
-
-
-
-<br>
-
-# 3일차 : 질답과 논의
-
-
+# 딥러닝 논문 파악
 
 
 <br>
