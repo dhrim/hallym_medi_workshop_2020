@@ -135,6 +135,7 @@ TensorFlow/Keras
 - CNN
     - MNIST : [cnn_mnist.ipynb](material/cnn_mnist.ipynb)
     - CIFAR10 : [cnn_cifar10.ipynb](material/cnn_cifar10.ipynb)
+    - IRIS : [iris_cnn.ipynb](material/iris_cnn.ipynb)
 - VGG - CIFAR10, ImageNet, custom data : [VGG16_classification_and_cumtom_data_training.ipynb](material/VGG16_classification_and_cumtom_data_training.ipynb)
 - Object Detection
     - CoCo, custom data : [object_detection.md](material/object_detection.md)
