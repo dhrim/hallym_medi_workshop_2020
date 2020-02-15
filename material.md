@@ -150,6 +150,7 @@ TensorFlow/Keras
 
 # 기타
 
+- [디노이징 AutoEncoder](material/denoising_autoencoder.ipynb)
 - [흥미로운 딥러닝 결과](material/some_interesting_deep_learning.pptx)
 - [yolo를 사용한 실시간 불량품 탐지 사례](material/yolo_in_field.mp4)
 - [GAN을 사용한 생산설비 이상 탐지](material/anomaly_detection_using_gan.pptx)
