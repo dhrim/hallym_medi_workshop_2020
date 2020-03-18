@@ -24,6 +24,8 @@
     - CoCo, custom data : [object_detection.md](material/object_detection.md)
 - Text : [text_classification.ipynb](material/text_classification.ipynb)
 
+- 손실함수의 이해 : [understanding_loss_function.ipynb](material/understanding_loss_function.ipynb)
+
 <br>
 
 # 딥러닝 논문 파악
