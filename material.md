@@ -17,7 +17,7 @@
 - CNN
     - MNIST : [cnn_mnist.ipynb](material/cnn_mnist.ipynb)
     - CIFAR10 : [cnn_cifar10.ipynb](material/cnn_cifar10.ipynb)
-    - IRIS : [iris_cnn.ipynb](material/iris_cnn.ipynb)
+    - IRIS : [iris_cnn_and_auc_score.ipynb](material/iris_cnn_and_auc_score.ipynb)
 - VGG - CIFAR10, ImageNet, custom data : [VGG16_classification_and_cumtom_data_training.ipynb](material/VGG16_classification_and_cumtom_data_training.ipynb)
 - U-Net Segmentation - Lung data : [unet_segementation.ipynb](material/unet_segementation.ipynb)
 - Object Detection
